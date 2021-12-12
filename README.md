@@ -41,5 +41,5 @@
 
  ## Contato
 <div>
-  <a target="_blank" href="oliveirajesse50@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a target="_blank" href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJlJVXSCkDsgCcwBLXgZgvTvVVSbvFVLhGTZvHLkrhWnxLWkMRRSTPVFrMRqkGpJPRxtHzg"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
  </div
