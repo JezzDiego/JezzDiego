@@ -42,5 +42,4 @@
  ## Contato
 <div>
  <a href="mailto:oliveirajesse50@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
- <a href="tel:+5582996009148"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
  </div
