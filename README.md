@@ -38,9 +38,3 @@
    <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
    <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
  </div>
-
- <div class="cobrinha">
- 
- ![Snake animation](https://github.com/JezzDiego/JezzDiego/blob/output/github-contribution-grid-snake.svg)
- 
- </div>
