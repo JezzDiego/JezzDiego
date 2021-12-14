@@ -22,8 +22,7 @@
   <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   
 </div>
-  
-  
+
  ## Pretendo aprender📚 
  <div style="display: inline_block"><br>
    <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
@@ -32,7 +31,7 @@
    <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
    <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
  </div>
-  
+ 
   ## Em estudo📖
  <div style="display: inline_block"><br>
    <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -44,6 +43,9 @@
  <a href="mailto:oliveirajesse50@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
  <a href="https://www.instagram.com/_jezz_die/" target="_blank"> <img src="https://img.shields.io/badge/Jessé%20Diego-ba24c3?style=for-the-badge&logo=Instagram&link=https://www.instagram.com/_jezz_die/"/>
 </a>
+ <hr>
  </div
+ 
+ 
  
  
