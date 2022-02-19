@@ -1,4 +1,4 @@
-# Olá!!! Me chamo Jessé Diego, mas pode me chamar de Jezz✨
+# Olá eu sou o Jessé
 
 #### *Atualmente no segundo ano de TI em IFAL - Instituto Federal de Alagoas📚*
 
