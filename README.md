@@ -1,6 +1,6 @@
 # Olá eu sou o Jessé
 
-#### *Atualmente no segundo ano de TI em IFAL - Instituto Federal de Alagoas📚*
+#### *Atualmente no terceiro ano do curso de Informática no Instituto Federal de Alagoas📚*
 
 <hr>
 
