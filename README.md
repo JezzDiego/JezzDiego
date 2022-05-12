@@ -1,6 +1,6 @@
 # Olá eu sou o Jessé
 
-#### *Atualmente no terceiro ano do curso de Informática no Instituto Federal de Alagoas📚*
+#### *Currently in the third year of the Informatics course at IFAL📚*
 
 <hr>
 
