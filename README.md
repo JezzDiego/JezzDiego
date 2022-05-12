@@ -1,6 +1,6 @@
-# Hi I'm Jessé
+# Jessé Diego da Silva Oliveira
 
-#### *Currently in the third year of the Informatics course at IFAL📚*
+#### *Currently in the third year of the Informatics course at IFAL - Instituto Federal de Alagoas📚*
 
 <hr>
 
@@ -12,7 +12,7 @@
   
   <hr>
   
- ## Linguagens<img align="center" height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" />
+ ## Languages<img align="center" height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" />
 <div style="display: inline_block"><br>
   
   <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -24,7 +24,7 @@
   
 </div>
 
- ## Pretendo aprender📚 
+ ## I intend to learn📚 
  <div style="display: inline_block"><br>
    <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
    <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
@@ -33,7 +33,7 @@
    <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
  </div>
  
-  ## Em estudo📖
+  ## In study📖
  <div style="display: inline_block"><br>
    <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
    <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
@@ -42,7 +42,7 @@
    <img align="center" height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
  </div>
 
- ## Contato📞
+ ## Contact📞
 <div>
  <a href="mailto:oliveirajesse50@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
  <a href="https://www.instagram.com/_jezz_die/" target="_blank"> <img src="https://img.shields.io/badge/Jessé%20Diego-ba24c3?style=for-the-badge&logo=Instagram&link=https://www.instagram.com/_jezz_die/"/>
