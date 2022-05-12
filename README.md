@@ -1,4 +1,4 @@
-# Olá eu sou o Jessé
+# Hi I'm Jessé
 
 #### *Currently in the third year of the Informatics course at IFAL📚*
 
