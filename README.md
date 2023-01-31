@@ -1,6 +1,6 @@
-# Jessé Diego da Silva Oliveira
+# Jessé Oliveira
 
-#### *Currently in the third year of the Computing course at IFAL - Instituto Federal de Alagoas📚*
+#### *I finished the Computing course at IFAL - Instituto Federal de Alagoas📚*
 
 <hr>
 
