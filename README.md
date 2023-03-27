@@ -1,6 +1,7 @@
 # Jessé Oliveira
 
-#### *I finished the Computing course at IFAL - Instituto Federal de Alagoas📚*
+#### *-> Computing course at IFAL - Instituto Federal de Alagoas (3/3)✅*
+#### *-> Information Systems Bachelor's Degree at IFAL - Instituto Federal de Alagoas (1/8)⏳*
 
 <hr>
 
