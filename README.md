@@ -44,6 +44,7 @@
    <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
    <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
    <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+   <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
  </div>
  
  ## Version Control System⚙️
@@ -59,12 +60,15 @@
  ## In study📖
  <div style="display: inline_block"><br>
    <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-   <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" />   
+   <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+   <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+          
  </div>
                                                                                                                         
  ## I intend to learn📚 
  <div style="display: inline_block"><br>
-   <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+   <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" />
+   <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />           
  </div>
 
  ## Contact📞
