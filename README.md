@@ -7,6 +7,9 @@
 
  <div>
   <a href="https://github.com/JezzDiego">
+
+  [![An image of @jezzdiego's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jezzdiego)](https://holopin.io/@jezzdiego)
+   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JezzDiego&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JezzDiego&layout=compact&langs_count=7&theme=dark"/>
 </div> 
