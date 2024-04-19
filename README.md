@@ -1,7 +1,7 @@
 # Hi there👋
 
 #### *-> Computing course at IFAL - Instituto Federal de Alagoas (3/3)✅*
-#### *-> Information Systems Bachelor's Degree at IFAL - Instituto Federal de Alagoas (2/8)⏳*
+#### *-> Information Systems Bachelor's Degree at IFAL - Instituto Federal de Alagoas (3/8)⏳*
 
 <hr>
 
