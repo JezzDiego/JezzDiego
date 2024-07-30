@@ -90,7 +90,6 @@
  ## Contact📞
 <div>
  <a href="mailto:oliveirajesse50@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
- <a href="https://www.instagram.com/_jezz_die/" target="_blank"> <img src="https://img.shields.io/badge/Jessé%20Diego-ba24c3?style=for-the-badge&logo=Instagram&link=https://www.instagram.com/_jezz_die/"/>
-</a>
+ <a href="https://www.instagram.com/jessedso/" target="_blank"> <img src="https://img.shields.io/badge/Jessé%20Oliveira-ba24c3?style=for-the-badge&logo=Instagram&link=https://www.instagram.com/jessedso/"/> </a>
  <hr>
  </div
