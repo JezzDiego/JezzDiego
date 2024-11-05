@@ -10,7 +10,7 @@
 
   [![An image of @jezzdiego's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jezzdiego)](https://holopin.io/@jezzdiego)
    
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=JezzDiego&theme=dracula&include_all_commits=true&count_private=false"/>
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=JezzDiego&theme=dracula&include_all_commits=true&count_private=true"/>
  
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JezzDiego&layout=compact&langs_count=8&theme=dracula"/>
 </div> 
